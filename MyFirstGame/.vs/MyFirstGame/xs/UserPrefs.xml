@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F536D4E2-7E6F-BB40-F6EB-7C64A65B74DF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UTech/MG-Platformer/BasicAssets/Scripts/Mechanics/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/UTech/MG-Platformer/BasicAssets/Scripts/Mechanics/PlayerController.cs" Line="35" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
