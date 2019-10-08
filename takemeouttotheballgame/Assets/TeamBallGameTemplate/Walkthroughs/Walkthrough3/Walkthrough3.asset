@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f107dc6d4c984c45bdafd3bb15f98f0, type: 3}
+  m_Name: Walkthrough3
+  m_EditorClassIdentifier: 
+  m_WindowTitle: Walkthrough
+  m_TutorialTitle: Changing a Property
+  m_LessonId: 
+  m_Version: 0
+  m_Scene: {fileID: 102900000, guid: cb6f5cb8ac75449a7a35d86db9cf8af0, type: 3}
+  m_DefaultSceneCameraSettings:
+    m_CameraMode: 0
+    m_FocusMode: 0
+    m_Orthographic: 0
+    m_Size: 0
+    m_Pivot: {x: 0, y: 0, z: 0}
+    m_Rotation: {x: 0, y: 0, z: 0, w: 0}
+    m_FrameObject:
+      m_SceneGuid: 
+      m_GameObjectGuid: 
+      m_SerializedComponentType:
+        m_TypeName: 
+      m_ComponentIndex: 0
+      m_AssetObject: {fileID: 0}
+      m_Prefab: {fileID: 0}
+    m_Enabled: 0
+  m_ExitBehavior: 1
+  m_SkipTutorialBehavior: 0
+  m_AssetSelectedOnExit: {fileID: 11400000, guid: 22b4ac996f9dbac4a846399a855f501f,
+    type: 2}
+  m_WelcomePage: {fileID: 0}
+  m_CompletedPage: {fileID: 0}
+  IsWelcomingPageShowing: 1
+  IsCompletedPageShowing: 0
+  m_Pages:
+    m_Items:
+    - {fileID: 11400000, guid: 24ebdb0b5ef974ac0916cdc4a025b35f, type: 2}
+    - {fileID: 11400000, guid: e543021333ef04f7e81b349394d4d12f, type: 2}
+    - {fileID: 11400000, guid: ed3b057fe86a54e42bb9632f097f2875, type: 2}
+    - {fileID: 11400000, guid: 4b8498b18d5e94f4798d295e33e97f4b, type: 2}
+    - {fileID: 11400000, guid: 61fa8d1e39f40b5409ce034f54ef0a66, type: 2}
+    - {fileID: 11400000, guid: 80a28be1123b644afaafc02f49f7eefc, type: 2}
+  m_WindowLayout: {fileID: 102900000, guid: d291c4153af7340d1944131239f6ffeb, type: 3}

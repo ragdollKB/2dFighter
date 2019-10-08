@@ -1,0 +1,12 @@
+{
+    "name": "UnityEditor.Advertisements",
+    "references": [
+        "UnityEngine.Advertisements"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
