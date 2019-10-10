@@ -86,11 +86,12 @@
 /reference:"/Applications/Unity/Hub/Editor/2018.4.9f1/Unity.app/Contents/Managed/UnityEditor.Graphs.dll"
 /reference:"/Applications/Unity/Hub/Editor/2018.4.9f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll"
 /reference:"/Applications/Unity/Hub/Editor/2018.4.9f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll"
-/reference:"/Users/Orin/Documents/2dFighter/Castle Fight/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll"
-/reference:"/Users/Orin/Documents/2dFighter/Castle Fight/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll"
-/reference:"/Users/Orin/Documents/2dFighter/Castle Fight/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll"
-/reference:"/Users/Orin/Documents/2dFighter/Castle Fight/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll"
-/reference:"/Users/Orin/Documents/2dFighter/Castle Fight/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll"
+/reference:"/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll"
+/reference:"/Users/kanton.budge/personalgit/Castle Fight/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll"
+/reference:"/Users/kanton.budge/personalgit/Castle Fight/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll"
+/reference:"/Users/kanton.budge/personalgit/Castle Fight/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll"
+/reference:"/Users/kanton.budge/personalgit/Castle Fight/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll"
+/reference:"/Users/kanton.budge/personalgit/Castle Fight/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll"
 /reference:"/Applications/Unity/Hub/Editor/2018.4.9f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll"
 /reference:"/Applications/Unity/Hub/Editor/2018.4.9f1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/Microsoft.Win32.Primitives.dll"
 /reference:"/Applications/Unity/Hub/Editor/2018.4.9f1/Unity.app/Contents/NetStandard/compat/2.0.0/shims/netstandard/System.AppContext.dll"
@@ -305,8 +306,9 @@
 /define:ENABLE_UNITY_COLLECTIONS_CHECKS
 /define:ENABLE_BURST_AOT
 /define:UNITY_TEAM_LICENSE
+/define:ENABLE_VSTU
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
-"/Users/Orin/Documents/2dFighter/Castle Fight/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/AssemblyInfo.cs"
-"/Users/Orin/Documents/2dFighter/Castle Fight/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/DataPrivacy.cs"
-"/Users/Orin/Documents/2dFighter/Castle Fight/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/DataPrivacyButton.cs"
+"/Users/kanton.budge/personalgit/Castle Fight/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/AssemblyInfo.cs"
+"/Users/kanton.budge/personalgit/Castle Fight/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/DataPrivacy.cs"
+"/Users/kanton.budge/personalgit/Castle Fight/Library/PackageCache/com.unity.analytics@3.2.2/DataPrivacy/DataPrivacyButton.cs"
