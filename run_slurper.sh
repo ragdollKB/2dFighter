@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run --rm python-radioslurper
+/usr/local/bin/docker run --rm python-radioslurper
